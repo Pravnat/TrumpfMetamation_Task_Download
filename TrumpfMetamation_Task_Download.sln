@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpfMetamation_Task_Download", "TrumpfMetamation_Task_Download\TrumpfMetamation_Task_Download.csproj", "{A9E61129-F93D-42DB-9125-94AB78CC2B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E61129-F93D-42DB-9125-94AB78CC2B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E61129-F93D-42DB-9125-94AB78CC2B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E61129-F93D-42DB-9125-94AB78CC2B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E61129-F93D-42DB-9125-94AB78CC2B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD055CBB-B4D1-43AE-97E5-257FDCAA0F88}
+	EndGlobalSection
+EndGlobal
